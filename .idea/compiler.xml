@@ -13,7 +13,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="annotation-processor" options="-parameters" />
+      <module name="annotation-processor" options="" />
       <module name="annotation-user" options="-parameters" />
     </option>
   </component>
